@@ -1,0 +1,8 @@
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\bin\Debug\tugas2_Andri Hasudungan_201401036.exe.config
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\bin\Debug\tugas2_Andri Hasudungan_201401036.exe
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\bin\Debug\tugas2_Andri Hasudungan_201401036.pdb
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\obj\Debug\tugas2_Andri Hasudungan_201401036.csprojResolveAssemblyReference.cache
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\obj\Debug\tugas2_Andri_Hasudungan_201401036.MainForm.resources
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\obj\Debug\tugas2_Andri Hasudungan_201401036.csproj.GenerateResource.Cache
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\obj\Debug\tugas2_Andri Hasudungan_201401036.exe
+C:\Users\dk\Documents\SharpDevelop Projects\tugas2_Andri Hasudungan_201401036\tugas2_Andri Hasudungan_201401036\obj\Debug\tugas2_Andri Hasudungan_201401036.pdb

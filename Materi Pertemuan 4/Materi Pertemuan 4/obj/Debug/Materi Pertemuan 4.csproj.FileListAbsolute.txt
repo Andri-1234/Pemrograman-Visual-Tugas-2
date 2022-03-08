@@ -1,0 +1,3 @@
+C:\Users\dk\Documents\SharpDevelop Projects\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.csprojResolveAssemblyReference.cache
+C:\Users\dk\Documents\SharpDevelop Projects\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\materi_pertemuan_4.MainForm.resources
+C:\Users\dk\Documents\SharpDevelop Projects\Materi Pertemuan 4\Materi Pertemuan 4\obj\Debug\Materi Pertemuan 4.csproj.GenerateResource.Cache
